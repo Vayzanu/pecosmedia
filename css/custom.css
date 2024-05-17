@@ -1,0 +1,32 @@
+/*orange color: #DC5F00 */
+.bg-gradient-primary{
+    background-color: #000;
+    background-image: none;
+}
+.feed-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: solid 5px #DC5F00;
+}
+.link {
+    color: #DC5F00;
+    text-decoration: underline;
+}
+.text-primary{
+    color: #DC5F00 !important;
+}
+.bg-black{
+    background-color: #333 !important;
+}
+.bg-orange{
+    background-color: #DC5F00 !important;
+    color: #fff;
+}
+.friend-data{
+    display: flex;
+    align-items: center;
+}
+.btn-primary{
+    background-color: #000;
+}

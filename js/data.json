@@ -1,0 +1,113 @@
+{
+    "logged_user": {
+        "id": 1,
+        "name": "Stefan Petrea",
+        "profile_pic": "img/users/stefan.jpg",
+        "school": "CNAIC",
+        "age": "15",
+        "hobbies": ["tennis", "swimming", "drinking beer"],
+        "friend_list_ids": [3,5,7,9,11]
+    },
+    "users":[
+        {
+            "id": 2,
+            "name": "Nicolau Cristian",
+            "profile_pic": "img/users/nicolau.jpg",
+            "school": "CNVA",
+            "age": "15",
+            "hobbies": ["math", "programming", "drinking tea"]
+        },
+        {
+            "id": 3,
+            "name": "Bogdan Protopopescu",
+            "profile_pic": "img/users/bgd.png",
+            "school": "LPS",
+            "age": "17",
+            "hobbies": ["fotbal"]
+        },
+        {
+            "id": 4,
+            "name": "Jeff Bezos",
+            "profile_pic": "img/users/bezos.jpeg",
+            "school": "LPS",
+            "age": "16",
+            "hobbies": ["fotbal"]
+        },
+        {
+            "id": 5,
+            "name": "Ronaldo cristiano",
+            "profile_pic": "img/users/ronaldo.jpeg",
+            "school": "LPS",
+            "age": "18",
+            "hobbies": ["fotbal"]
+        },
+        {
+            "id": 6,
+            "name": "Leo Dicaprio",
+            "profile_pic": "img/users/caprio.jpg",
+            "school": "CNAIC",
+            "age": "17",
+            "hobbies": []
+        },
+        {
+            "id": 7,
+            "name": "Travis Jhonson",
+            "profile_pic": "img/users/travis.jpeg",
+            "school": "CFR",
+            "age": "19",
+            "hobbies": ["eating"]
+        },
+        {
+            "id": 8,
+            "name": "Varlaam Petru 6",
+            "profile_pic": "img/users/varlaam.jpg",
+            "school": "CNAIC",
+            "age": "17",
+            "hobbies": []
+        },
+        {
+            "id": 9,
+            "name": "Leo Dicaprio",
+            "profile_pic": "img/users/caprio.jpg",
+            "school": "CNAIC",
+            "age": "17",
+            "hobbies": []
+        },
+        {
+            "id": 10,
+            "name": "Varlaam Petru 8",
+            "profile_pic": "img/users/varlaam.jpg",
+            "school": "CNAIC",
+            "age": "17",
+            "hobbies": []
+        },
+        {
+            "id": 11,
+            "name": "Lady Gaga",
+            "profile_pic": "img/users/gaga.jpg",
+            "school": "CNAIC",
+            "age": "17",
+            "hobbies": []
+        }
+    ],
+    "activity": [
+        { 
+            "user_id": 2,
+            "activity": "Became friends with Lara Fabian"
+        },
+        { 
+            "user_id": 3,
+            "activity": "Liked Metallica Page"
+        },
+        { 
+            "user_id": 5,
+            "activity": "Liked a photo"
+        },
+        { 
+            "user_id": 7,
+            "activity": "Updated their status"
+        }
+    ]
+        
+    
+}
